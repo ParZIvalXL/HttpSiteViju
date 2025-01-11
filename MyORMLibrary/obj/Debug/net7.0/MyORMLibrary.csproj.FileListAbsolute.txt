@@ -1,0 +1,24 @@
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.deps.json
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\refint\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\MyORMLibrary\obj\Debug\net7.0\ref\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.deps.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\bin\Debug\net7.0\MyORMLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\refint\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\MyORMLibrary\obj\Debug\net7.0\ref\MyORMLibrary.dll

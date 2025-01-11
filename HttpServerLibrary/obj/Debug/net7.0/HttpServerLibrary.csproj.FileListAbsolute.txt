@@ -1,0 +1,24 @@
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.deps.json
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\refint\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\ORIS\MyHTTPServer\HttpServerLibrary\obj\Debug\net7.0\ref\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.deps.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\bin\Debug\net7.0\HttpServerLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\refint\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\ref\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\HttpServerLibrary\bin\Debug\net7.0\HTTPServer.cs

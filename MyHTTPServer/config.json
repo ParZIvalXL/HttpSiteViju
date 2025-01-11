@@ -1,0 +1,5 @@
+{
+  "host": "localhost",
+  "port": 8785,
+  "static": "public"
+}
