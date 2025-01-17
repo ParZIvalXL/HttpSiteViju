@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DeKBNH5mpOg4wLYaVBSOyQWgLPbCtahf84RfSppElu6KXZGSYRp/ukPPo36fP1N9wj44S/leby0/OI5+nGoEVw==",
+  "dgSpecHash": "X72ir+bG+rHQTOyDQkl+vXks7VztuztjvzhLllis4DrhseSFH+vpYieWticlNQYyeC3pAYaQ+Zfh256XX1Or5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj",
+  "projectFilePath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Рузиль\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Рузиль\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1891,11 +1891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj",
+      "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj",
       "projectName": "Templator",
-      "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj",
+      "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj",
       "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\obj\\",
+      "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",

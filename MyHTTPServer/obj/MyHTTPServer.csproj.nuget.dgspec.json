@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyHTTPServer\\MyHTTPServer.csproj": {}
+    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyHTTPServer\\MyHTTPServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj": {
+    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj",
         "projectName": "HttpServerLibrary",
-        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj",
         "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyHTTPServer\\MyHTTPServer.csproj": {
+    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyHTTPServer\\MyHTTPServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyHTTPServer\\MyHTTPServer.csproj",
+        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyHTTPServer\\MyHTTPServer.csproj",
         "projectName": "MyHTTPServer",
-        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyHTTPServer\\MyHTTPServer.csproj",
+        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyHTTPServer\\MyHTTPServer.csproj",
         "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyHTTPServer\\obj\\",
+        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyHTTPServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj": {
-                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj"
+              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj": {
+                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj"
               },
-              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\MyORMLibrary.csproj": {
-                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\MyORMLibrary.csproj"
+              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\MyORMLibrary.csproj": {
+                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\MyORMLibrary.csproj"
               },
-              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj": {
-                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj"
+              "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj": {
+                "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\MyORMLibrary.csproj": {
+    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\MyORMLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\MyORMLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\MyORMLibrary.csproj",
         "projectName": "MyORMLibrary",
-        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\MyORMLibrary.csproj",
+        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\MyORMLibrary.csproj",
         "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\MyORMLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\MyORMLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj": {
+    "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj",
+        "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj",
         "projectName": "Templator",
-        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\Templator.csproj",
+        "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\Templator.csproj",
         "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\Templator\\obj\\",
+        "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\Templator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",

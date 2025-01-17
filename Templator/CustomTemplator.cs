@@ -19,7 +19,8 @@ public class CustomTemplator
     {
         var template = File.ReadAllText(@"public/FilmPage.html");
         string res = Render(template, filmInfoTemplate);
-        res = res.Replace("<--!player-->", filmInfoTemplate.vklink);
+        Console.WriteLine("player: " + filmInfoTemplate.vklink);
+        res = res.Replace("<!--player-->", filmInfoTemplate.vklink);
         return res;
     }
     

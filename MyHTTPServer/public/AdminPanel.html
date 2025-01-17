@@ -3,10 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover">
-  <title>Зарегистрируйся или войди | viju.ru</title>
-
-  <link rel="modulepreload" as="script" crossorigin=""
-        href="https://viju.ru/_nuxt/sentry-9RExQhHvm6gyL7teYVFUH8wIiBvS1I.js">
+  <title>Управление данными</title>
   <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
@@ -42,20 +39,20 @@
     <div id="inner-body" class="_body_1hj19_1">
       <main class="">
         <section class="_authMobile_qoy0d_5">
-          <form autocomplete="on" class="_authSection_qoy0d_29" method="post" action="/login">
+          <form autocomplete="on" class="_authSection_qoy0d_29" method="post" action="/postUser">
             <div class="nuxt-loading-indicator"
                  style="position: fixed; top: 0px; right: 0px; left: 0px; pointer-events: none; width: auto; height: 3px; opacity: 0; background: var(--color-bg-accent); transform: scaleX(0); transform-origin: left center; transition: transform 0.1s, height 0.4s, opacity 0.4s; z-index: 999999;">
 
             </div>
             <section class="_page_1hj19_19"><h1 style="text-align:center;"
                                                 class="_appTitle_1cok2_1 _enterTitle_ixgnx_1 _enterTitleMobile_ixgnx_5">
-              Войди в аккаунт</h1>
+              Ввод данных пользователя</h1>
               <div class="_authInput_1pgb5_1">
                 <div class="_control_yu73a_1" aria-autocomplete="inline" data-tid="auth_loginInput">
                   <div class="_inputWrapper_yu73a_7 _primary_yu73a_64 _large_yu73a_109">
                     <input
-                    class="_input_yu73a_7" placeholder="Почта или телефон" autocomplete="email" spellcheck="false"
-                    autofocus="" name="login" type="text" value="">
+                      class="_input_yu73a_7" placeholder="Почта или телефон" autocomplete="email" spellcheck="false"
+                      autofocus="" name="login" type="text" value="">
                   </div>
                 </div>
                 <input aria-hidden="true" class="_hidden_1pgb5_28" name="hiddenPassword" tabindex="-1" type="password">
@@ -65,22 +62,46 @@
                   <div class="_inputWrapper_yu73a_7 _primary_yu73a_64 _large_yu73a_109"><input
                     class="_input_yu73a_7" placeholder="Пароль" spellcheck="false" name="password"
                     type="password" value=""></div>
-                  </div>
+                </div>
               </div>
-              <!--error-->
+              <!--errorAddUser-->
 
               <button tabindex="0" title="" aria-label=""
                       style="transition:background-color 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out;"
                       class="_appButton_1uayz_1 _button_1uayz_23 _primaryButton_1uayz_127 _large_1uayz_47 _appButton_1k3tg_6 _button_ixgnx_10"
                       type="submit"><p class="_textWrapper_1uayz_195" style="justify-content:center;"><span
-                class="_text_1uayz_87">Войти</span></p></button>
-              <a href="/" class="_link_1yd9s_1 _caption_ixgnx_67">Назад</a>
+                class="_text_1uayz_87">Отправить</span></p></button>
             </section>
           </form>
-            <div style="">
-              <p class="_caption_qoy0d_9">Нет аккаунта? <a href="/register" class="_link_1yd9s_1 _caption_ixgnx_67"> Зарегистрируйся здесь</a></p>
+        </section>
+        <section class="_authMobile_qoy0d_5">
+          <form autocomplete="on" class="_authSection_qoy0d_29" method="post" action="/postUser">
+            <div class="nuxt-loading-indicator"
+                 style="position: fixed; top: 0px; right: 0px; left: 0px; pointer-events: none; width: auto; height: 3px; opacity: 0; background: var(--color-bg-accent); transform: scaleX(0); transform-origin: left center; transition: transform 0.1s, height 0.4s, opacity 0.4s; z-index: 999999;">
 
             </div>
+            <section class="_page_1hj19_19">
+              <h1 style="text-align:center;" class="_appTitle_1cok2_1 _enterTitle_ixgnx_1 _enterTitleMobile_ixgnx_5">
+              Удаление пользователя по ID</h1>
+              <div class="_authInput_1pgb5_1">
+                <div class="_control_yu73a_1" aria-autocomplete="inline" data-tid="auth_loginInput">
+                  <div class="_inputWrapper_yu73a_7 _primary_yu73a_64 _large_yu73a_109">
+                    <input
+                      class="_input_yu73a_7" placeholder="ID пользователя" autocomplete="email" spellcheck="false"
+                      autofocus="" name="login" type="text" value="">
+                  </div>
+                </div>
+                <input aria-hidden="true" class="_hidden_1pgb5_28" name="hiddenPassword" tabindex="-1" type="password">
+              </div>
+              <!--errorDeleteUser-->
+
+              <button tabindex="0" title="" aria-label=""
+                      style="transition:background-color 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out;"
+                      class="_appButton_1uayz_1 _button_1uayz_23 _primaryButton_1uayz_127 _large_1uayz_47 _appButton_1k3tg_6 _button_ixgnx_10"
+                      type="submit"><p class="_textWrapper_1uayz_195" style="justify-content:center;"><span
+                class="_text_1uayz_87">Удалить пользователя из бд</span></p></button>
+            </section>
+          </form>
         </section>
       </main>
     </div>
@@ -88,3 +109,4 @@
 </div>
 </body>
 </html>
+

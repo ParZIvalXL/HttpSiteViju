@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9iNn/t2rMEsHHMKHqaU/0hBwlrBYvtR+lpUvRHacq129vUCmZpcdGSbY2y5e3AHTOJGRQty/l80DxK55c13qg==",
+  "dgSpecHash": "wVD+G6EQLbc5gXuwnWxgHS99SAVvpqM4yXkADio+ICSLIDQTq2lgNCQNnFFT70tuHx6HL3ZcfCS/43ZKlmwvig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 3 сем\\HttpSiteViju\\HttpServerLibrary\\HttpServerLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Рузиль\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Рузиль\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

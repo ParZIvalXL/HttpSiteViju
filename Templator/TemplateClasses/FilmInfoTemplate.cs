@@ -48,7 +48,7 @@ public class FilmInfoTemplate
         film_audio_channels = filmAudioChannels;
         film_quality = filmQuality;
         film_plot_sumary = filmPlotSumary;
-        vklink = vklink;
+        this.vklink = vklink;
         film_id = filmFilmId.ToString();
         film_starring = filmStarring;
 

@@ -11,7 +11,7 @@ using MyHTTPServer.Models;
 using MyHTTPServer.Sessions;
 using MyORMLibrary;
 using Templator;
-using SqlConnection = System.Data.SqlClient.SqlConnection;
+using SqlConnection = Microsoft.Data.SqlClient.SqlConnection;
 
 namespace MyHTTPServer.EndPoints;
 
@@ -28,14 +28,22 @@ public class AuthEndPoint : BaseEndPoint
 
         var file = File.ReadAllText(
             @"public/login.html");
-        if (error == "notFound")
+        switch (error)
         {
-            file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Такого пользователя не существует, зарегистрируйтесь</p>");
+            case("incorrectLoginInput"):
+                file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Вы должны ввести логин</p>");
+                break;
+            case("incorrectPasswordInput"):
+                file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Вы должны ввести пароль</p>");
+                break;
+            case("notFound"):
+                file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Такого пользователя не существует, зарегистрируйтесь</p>");
+                break;
+            case("wrongPassword"):
+                file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Неверный пароль </p>");
+                break;
         }
-        else if (error == "wrongPassword")
-        {
-            file = file.Replace("<!--error-->","<p class=\"_passwordError_8gnij_9\">Неверный пароль </p>");
-        }
+        
         
         return Html(file);
     }
@@ -48,16 +56,25 @@ public class AuthEndPoint : BaseEndPoint
     }
 
     [Post("login")]
-    public IHttpResponceResult Login(string email, string password)
+    public IHttpResponceResult Login(string login, string password)
     {
-        Console.WriteLine($"Login: {email}, password: {password}");
+        Console.WriteLine($"Login: {login}, password: {password}");
+        if (login.Length == 0)
+        {
+            return Redirect("/login?error=incorrectLoginInput");
+        }
+        
+        if (password.Length == 0)
+        {
+            return Redirect("/login?error=incorrectPasswordInput");
+        }
         string connectionString = @"Data Source=localhost; Initial Catalog=Film; User ID=sa;Password=P@ssw0rd; TrustServerCertificate=true;";
-        var dBcontext = new ORMContext<Users>(new SqlConnection(connectionString));
-        var user = dBcontext.CheckUserByData(email);
+        var dBcontext = new ORMContext<Users>(new System.Data.SqlClient.SqlConnection(connectionString));
+        var user = dBcontext.CheckUserByData(login);
 
         if (user == null)
         {
-            var phone = email;
+            var phone = login;
             if (user == null)
             {
                 Console.WriteLine("Users not found");

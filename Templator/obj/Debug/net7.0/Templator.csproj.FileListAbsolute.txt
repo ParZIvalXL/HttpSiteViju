@@ -10,3 +10,15 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\Templator\obj\Debug\net7.0\Templator.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\Templator\obj\Debug\net7.0\ref\Templator.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpServer\Templator\obj\Debug\net7.0\Templator.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\bin\Debug\net7.0\Templator.deps.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\bin\Debug\net7.0\Templator.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\bin\Debug\net7.0\Templator.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\refint\Templator.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\ref\Templator.dll
