@@ -11,16 +11,13 @@ public class CustomTemplator
         string temp = "<!--" + comment + "-->";
         return template.Replace(temp, tag);
     }
-    public string RenderLogged(string template)
-    {
-        return BlockRemover(template, "removeOnLogin");
-    }
-    public string RenderFilmSite(FilmInfoTemplate filmInfoTemplate)
+    public string RenderFilmSite(FilmInfoTemplate filmInfoTemplate, List<Kinom> kinoms)
     {
         var template = File.ReadAllText(@"public/FilmPage.html");
+        template = template.Replace("<!--player-->", filmInfoTemplate.vklink);
+        var kinom = CreateKinomsCategory(kinoms);
+        template = template.Replace("<!--kinomsPlaceHolder-->", kinom);
         string res = Render(template, filmInfoTemplate);
-        Console.WriteLine("player: " + filmInfoTemplate.vklink);
-        res = res.Replace("<!--player-->", filmInfoTemplate.vklink);
         return res;
     }
     
@@ -118,6 +115,27 @@ public class CustomTemplator
         return result;
     }
     
+    public string CreateKinomsCategory(List<Kinom> Kinoms)
+    {
+        var template = File.ReadAllText(@"public/templates/Kinoms.html");
+        string kinomsString = "";
+        foreach (var kinom in Kinoms)
+        {
+            kinomsString += CreateKinom(kinom);
+        }
+
+        template = template.Replace("<!--Kinoms-->", kinomsString);
+        return template;
+    }
+    
+    private string CreateKinom(Kinom kinom)
+    {
+        string name = kinom.name;
+        string img = kinom.url;
+        var template = File.ReadAllText(@"public/templates/Kinom.html");
+        template = template.Replace("{name}", name).Replace("{img}", img);
+        return template;
+    }
     private string ProcessLoops(string template, object data)
     {
         var regex = new Regex(@"\{#foreach (.*?)\}(.*?)\{\/foreach\}", RegexOptions.Singleline);

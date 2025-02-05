@@ -474,7 +474,10 @@
           "Microsoft.Data.SqlClient": "6.0.0-preview3.24332.3"
         },
         "runtime": {
-          "HttpServerLibrary.dll": {}
+          "HttpServerLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "MyORMLibrary/1.0.0": {
@@ -483,7 +486,10 @@
           "System.Data.SqlClient": "4.9.0"
         },
         "runtime": {
-          "MyORMLibrary.dll": {}
+          "MyORMLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Templator/1.0.0": {
@@ -491,7 +497,10 @@
           "Microsoft.Data.SqlClient": "6.0.0-preview3.24332.3"
         },
         "runtime": {
-          "Templator.dll": {}
+          "Templator.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

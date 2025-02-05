@@ -35,3 +35,4 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\HttpServerLibrary\obj\Debug\net7.0\refint\HttpServerLibrary.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\HttpServerLibrary\obj\Debug\net7.0\ref\HttpServerLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\HttpServerLibrary\obj\Debug\net7.0\HttpServerLibrary.sourcelink.json

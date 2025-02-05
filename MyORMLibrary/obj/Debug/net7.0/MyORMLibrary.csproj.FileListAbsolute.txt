@@ -34,3 +34,4 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyORMLibrary\obj\Debug\net7.0\refint\MyORMLibrary.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyORMLibrary\obj\Debug\net7.0\ref\MyORMLibrary.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyORMLibrary\obj\Debug\net7.0\MyORMLibrary.sourcelink.json

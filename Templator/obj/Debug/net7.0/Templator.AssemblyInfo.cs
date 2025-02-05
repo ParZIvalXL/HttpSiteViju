@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Templator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f858a3035e74abc6d7b86528c02084435936f6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Templator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Templator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

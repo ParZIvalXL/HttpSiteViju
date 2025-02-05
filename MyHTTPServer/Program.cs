@@ -17,8 +17,10 @@ internal class Program
         string prefix = $"http://{conf.Host}:{conf.Port}/";
 
         HttpServerLibrary server = new HttpServerLibrary(prefix, conf.Static);
-
+        Console.WriteLine($"Server started at {prefix}");
+        
         await server.StartAsync();
+
     }
 
     private static AppConfigDefault.AppConfig? GetAppConfig()

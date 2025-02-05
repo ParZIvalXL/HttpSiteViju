@@ -19,17 +19,14 @@ public class BaseEndpoint : BaseEndPoint
         var templator = new CustomTemplator();
         var file = File.ReadAllText(
             @"public/index.html");
-        if (SessionStorage.IsAuthorized(Context))
-        {
-            file = templator.RenderLogged(file);
-        }
-        return Html(file);
+        
+        return Html(SessionStorage.IsAuthorized(Context) ? templator.BlockRemover(file, "removeOnLogin") : templator.BlockRemover(file, "removeOnUnauthorized"));
     }
 
     [Get("film")]
-    public IHttpResponceResult Film(string filmId)
+    public IHttpResponceResult Film(string filmid)
     {
-        int id = int.Parse(filmId);
+        int id = int.Parse(filmid);
         
         var orm = new ORMContext<FilmInfo>(new SqlConnection(@"Data Source=localhost; Initial Catalog=Film; User ID=sa;Password=P@ssw0rd; TrustServerCertificate=true;"));
         var filmCardTemplate = orm.Where(f => f.id == id).ToList().Find(f=> f.id == id);
@@ -39,7 +36,10 @@ public class BaseEndpoint : BaseEndPoint
             return Redirect("/");
         }
         var templator = new CustomTemplator();
-        return Html(templator.RenderFilmSite(
+        var ormKinoms = new ORMContext<Kinom>(new SqlConnection(@"Data Source=localhost; Initial Catalog=Film; User ID=sa;Password=P@ssw0rd; TrustServerCertificate=true;"));
+        List<Kinom> kinoms = ormKinoms.GetByAll().Where(s => s.filmId == id).ToList();
+        Console.WriteLine("Got kinoms: " + kinoms.Count);
+        var file = templator.RenderFilmSite(
             new FilmInfoTemplate(
                 filmCardTemplate.FilmName,
                 filmCardTemplate.FullFilmName,
@@ -61,6 +61,10 @@ public class BaseEndpoint : BaseEndPoint
                 filmCardTemplate.FilmQuality,
                 filmCardTemplate.FilmPlotSummary,
                 filmCardTemplate.VKLink,
-                filmCardTemplate.id)));
+                filmCardTemplate.id), kinoms);
+        file = SessionStorage.IsAuthorized(Context)
+            ? templator.BlockRemover(file, "removeOnLogin")
+            : templator.BlockRemover(file, "removeOnUnauthorized");
+        return Html(file);
     }
 }

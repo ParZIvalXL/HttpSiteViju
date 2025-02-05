@@ -1,7 +1,8 @@
-document.getElementById("spoilerButton").onclick = function() {
-  TurnBlock(this);
-  alert("test")
-}
+const el = document.getElementById("spoilerButton");
+el.addEventListener('click', () => TurnBlock(this));
+document.addEventListener('DOMContentLoaded', () =>{
+  ShowBlock(el);
+})
 function TurnBlock(e){
   if(document.querySelector('div._description_1gamc_16').style.display === "flex"){
     HideBlock(e);

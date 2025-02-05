@@ -22,3 +22,4 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\refint\Templator.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\ref\Templator.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\Templator\obj\Debug\net7.0\Templator.sourcelink.json

@@ -1,17 +1,12 @@
-using System.Data.SqlClient;
 using System.Net;
-using System.Web;
 using HttpServerLibrary;
 using HttpServerLibrary.Attributes;
 using HttpServerLibrary.Core.Attributes;
 using HttpServerLibrary.HttpResponce;
-using HttpServerLibrary.HttpResponse;
-using MyHTTPServer.Endpoints;
 using MyHTTPServer.Models;
 using MyHTTPServer.Sessions;
 using MyORMLibrary;
 using Templator;
-using SqlConnection = Microsoft.Data.SqlClient.SqlConnection;
 
 namespace MyHTTPServer.EndPoints;
 

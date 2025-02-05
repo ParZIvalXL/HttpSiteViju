@@ -53,12 +53,12 @@ internal class EndPointsHandler : Handler
             if (route.handler != null)
             {
                 var endpointInstance = Activator.CreateInstance(route.endpointType) as BaseEndPoint;
+                var parameters = GetParams(context, route.handler);
 
                 if (endpointInstance != null)
                 {
                     endpointInstance.SetContext(context);
 
-                    var parameters = GetParams(context, route.handler);
                     // Invoke the handler method. 
                     var result = route.handler.Invoke(endpointInstance, parameters) as IHttpResponceResult;
                     result?.Execute(context.Response); // Execute the result

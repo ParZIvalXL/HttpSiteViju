@@ -182,7 +182,6 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.AssemblyInfoInputs.cache
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.AssemblyInfo.cs
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.csproj.CoreCompileInputs.cache
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.csproj.CopyComplete
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\refint\MyHTTPServer.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.pdb
@@ -190,3 +189,7 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\ref\MyHTTPServer.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\bin\Debug\net7.0\public\js\functions.js
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\bin\Debug\net7.0\public\js\MobileMenu.js
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPServer.sourcelink.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\obj\Debug\net7.0\MyHTTPSe.F316BD60.Up2Date
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\bin\Debug\net7.0\public\templates\Kinoms.html
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 3 сем\HttpSiteViju\MyHTTPServer\bin\Debug\net7.0\public\templates\Kinom.html
